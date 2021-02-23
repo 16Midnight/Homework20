@@ -21,9 +21,9 @@ AssociateProfitSplitter contract. This will accept Ether into the contract and d
 
 The program contains a deposit  function that are going o distribute the same amount of ether between 3 employees.
 
-The only requirements to run this program is to input the Wallet addresses of the employees in our case we use the one provide by ganache and Transact.
+The only requirements to run this program is to input the Wallet addresses of the employees in our case we use the one provide by ganache and Transact , and make 1 ETH deposit after that check the accounts to verify if the accounts have the correct allocation.
 
- Description slides  1 to 6  of the powerpoint
+Description slides  1 to 7  of the powerpoint
  
  2-Second contract objective
  
@@ -31,7 +31,7 @@ The only requirements to run this program is to input the Wallet addresses of th
  
  Requirements are the same  of the first contract.
  
- Description slides 7 to 12 of the presentation
+ Description slides 8 to 15 of the presentation
  
  3-Third contract objective
  
@@ -39,9 +39,9 @@ The only requirements to run this program is to input the Wallet addresses of th
  
  In this contract  we establish limitation buy time and amount of shares to distribute if the employee fulfill the requirements,  for that we were using  unlocks and require statements and  we tested it using the fastfoward function with a fakenow variable in order to do it properly.
  
- Description slides 13 to 17 
+ Description slides 15 to 21 
  
- On the slide 18 I copied  the contract addresses after tested them with Tesnet.
+ On the slide 21 I copied  the contract addresses after tested them with Tesnet.
  
  
 
